@@ -61,16 +61,3 @@ A **Django + Django Ninja** web app for World of Warcraft players, covering raid
 | [Hill Climb Game](https://github.com/Krumca97/Hill-Climb-game) | Browser-based physics platformer built with the **Phaser** game framework | `JavaScript` `Phaser` `HTML/CSS` |
 
 ---
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Krumca97&show_icons=true&theme=default&hide_border=true" alt="Aleš's GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krumca97&layout=compact&hide_border=true" alt="Top languages" />
-</p>
-
----
-
-<p align="center"><i>Open to backend / Java opportunities — feel free to reach out!</i></p>
