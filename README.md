@@ -2,7 +2,7 @@
 <h3 align="center">Backend-focused Java Developer | 3rd-year CS student at VŠB-TUO looking for my first role in IT</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aleš-laník/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ales-lanik/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:lanik.ales2@protonmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
 </p>
 
@@ -15,7 +15,7 @@
 - Main stack: **Java, Spring Boot, Maven, REST APIs, SQL/SQLite, Git, Linux**
 - Also comfortable with **C++**, and I like poking at low-level projects on the side (OpenGL, compilers)
 - Always building something outside of school assignments — most of the repos below started as coursework and turned into "let me just add one more feature" projects
-- Reach me at [LinkedIn](https://www.linkedin.com/in/aleš-laník/) or on **lanik.ales2@protonmail.com**
+- Reach me at [LinkedIn](https://www.linkedin.com/in/ales-lanik/) or on **lanik.ales2@protonmail.com**
 
 ---
 
