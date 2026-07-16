@@ -13,7 +13,7 @@
 - 3rd-year Computer Science student at **VŠB – Technical University of Ostrava**
 - Looking for my **first job/internship/part-time role** in backend development
 - Main stack: **Java, Spring Boot, Maven, REST APIs, SQL/SQLite, Git, Linux**
-- Also comfortable with **C++**, and I like poking at low-level / systems-y projects on the side (OpenGL, compilers)
+- Also comfortable with **C++**, and I like poking at low-level projects on the side (OpenGL, compilers)
 - Always building something outside of school assignments — most of the repos below started as coursework and turned into "let me just add one more feature" projects
 - Reach me at [LinkedIn](https://www.linkedin.com/in/aleš-laník/) or on **lanik.ales2@protonmail.com**
 
