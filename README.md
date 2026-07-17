@@ -37,7 +37,7 @@
 
 ### Featured Projects
 
-#### [Level Devil — Client/Server Platformer](https://github.com/Krumca97/Level-Devil)
+#### [Level Devil - Client/Server Platformer](https://github.com/Krumca97/Level-Devil)
 A single-process JavaFX game rebuilt from the ground up into a proper **three-tier client-server application**: a stateless **Spring Boot REST API**, a **JavaFX client** talking to it purely over HTTP, and a **SQLite** database behind **Spring Data JPA/Hibernate**. Handled real-world backend problems along the way - Java Module System conflicts with Spring's CGLIB proxies, cyclic JSON serialization between entities, and inconsistent API responses.
 `Java` `Spring Boot` `Hibernate/JPA` `SQLite` `JavaFX` `REST`
 
@@ -45,7 +45,7 @@ A single-process JavaFX game rebuilt from the ground up into a proper **three-ti
 A 3D graphics renderer built in **C++** with **OpenGL, GLFW, GLEW and GLM**, featuring a scene graph with lights, materials, textures, skyboxes and custom transformations - implemented using the Observer pattern to keep cameras and lights in sync with the scene.
 `C++` `OpenGL` `Computer Graphics`
 
-#### [WowHeadLite — WoW PvE Guide Site](https://github.com/Krumca97/Wowhead_lite_project)
+#### [WowHeadLite - WoW PvE Guide Site](https://github.com/Krumca97/Wowhead_lite_project)
 A **Django + Django Ninja** web app for World of Warcraft players, covering raid/dungeon guides, class specs, loot, and a comment system - with a full REST API and admin panel for content management.
 `Python` `Django` `Django Ninja` `REST API` `SQLite`
 
