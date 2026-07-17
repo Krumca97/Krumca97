@@ -10,11 +10,11 @@
 
 ### About me
 
-- 3rd-year Computer Science student at **VŠB – Technical University of Ostrava**
+- 3rd-year Computer Science student at **VŠB - Technical University of Ostrava**
 - Looking for my **first job/internship/part-time role** in backend development
 - Main stack: **Java, Spring Boot, Maven, REST APIs, SQL/SQLite, Git, Linux**
 - Also comfortable with **C++**, and I like poking at low-level projects on the side (OpenGL, compilers)
-- Always building something outside of school assignments — most of the repos below started as coursework and turned into "let me just add one more feature" projects
+- Always building something outside of school assignments
 - Reach me at [LinkedIn](https://www.linkedin.com/in/ales-lanik/) or on **lanik.ales2@protonmail.com**
 
 ---
@@ -38,15 +38,15 @@
 ### Featured Projects
 
 #### [Level Devil — Client/Server Platformer](https://github.com/Krumca97/Level-Devil)
-A single-process JavaFX game rebuilt from the ground up into a proper **three-tier client-server application**: a stateless **Spring Boot REST API**, a **JavaFX client** talking to it purely over HTTP, and a **SQLite** database behind **Spring Data JPA/Hibernate**. Handled real-world backend problems along the way — Java Module System conflicts with Spring's CGLIB proxies, cyclic JSON serialization between entities, and inconsistent API responses.
+A single-process JavaFX game rebuilt from the ground up into a proper **three-tier client-server application**: a stateless **Spring Boot REST API**, a **JavaFX client** talking to it purely over HTTP, and a **SQLite** database behind **Spring Data JPA/Hibernate**. Handled real-world backend problems along the way - Java Module System conflicts with Spring's CGLIB proxies, cyclic JSON serialization between entities, and inconsistent API responses.
 `Java` `Spring Boot` `Hibernate/JPA` `SQLite` `JavaFX` `REST`
 
 #### [OpenGL Renderer](https://github.com/Krumca97/Opengl-renderer-ZPG_projekt)
-A 3D graphics renderer built in **C++** with **OpenGL, GLFW, GLEW and GLM**, featuring a scene graph with lights, materials, textures, skyboxes and custom transformations — implemented using the Observer pattern to keep cameras and lights in sync with the scene.
+A 3D graphics renderer built in **C++** with **OpenGL, GLFW, GLEW and GLM**, featuring a scene graph with lights, materials, textures, skyboxes and custom transformations - implemented using the Observer pattern to keep cameras and lights in sync with the scene.
 `C++` `OpenGL` `Computer Graphics`
 
 #### [WowHeadLite — WoW PvE Guide Site](https://github.com/Krumca97/Wowhead_lite_project)
-A **Django + Django Ninja** web app for World of Warcraft players, covering raid/dungeon guides, class specs, loot, and a comment system — with a full REST API and admin panel for content management.
+A **Django + Django Ninja** web app for World of Warcraft players, covering raid/dungeon guides, class specs, loot, and a comment system - with a full REST API and admin panel for content management.
 `Python` `Django` `Django Ninja` `REST API` `SQLite`
 
 ---
