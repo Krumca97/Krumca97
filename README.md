@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Aleš Laník 👋</h1>
-<h3 align="center">Backend-focused Java Developer | 3rd-year CS student at VŠB-TUO looking for my first role in IT</h3>
+<h3 align="center">Java-focused Developer | 3rd-year CS student at VŠB-TUO looking for my first role in IT</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ales-lanik/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
